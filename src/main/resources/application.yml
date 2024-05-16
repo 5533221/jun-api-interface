@@ -1,0 +1,9 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+# 自己写的客户端的  秘钥
+api:
+  client:
+    access-key: junjun
+    secret-key: abcdefgh
